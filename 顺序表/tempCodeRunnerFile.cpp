@@ -1,1 +1,1 @@
-   // SqList L;
+    ListInsert(L,3,100);
